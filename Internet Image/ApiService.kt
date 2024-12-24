@@ -1,3 +1,6 @@
+// ApiService.kt
+// File type -> File
+
 package com.example.internetimage
 
 import retrofit2.Retrofit
