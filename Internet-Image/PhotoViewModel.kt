@@ -1,8 +1,6 @@
 // PhotoViewModel.kt
 // File type -> Class
 
-
-
 package com.example.internetimage
 
 import androidx.lifecycle.ViewModel
