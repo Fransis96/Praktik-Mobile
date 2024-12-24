@@ -8,13 +8,15 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
 <h2>List Path dan Files</h2>
 
 <h4>Navigasi-Sederhana</h4>
-<ul>
-  <li><a href="Navigasi-Sederhana/MainScreen.kt">MainScreen.kt</a></li>
-  <li><a href="Navigasi-Sederhana/SecondScreen.kt">SecondScreen.kt</a></li>
-  <li><a href="Navigasi-Sederhana/ThirdScreen.kt">ThirdScreen.kt</a></li>
-  <li><a href="Navigasi-Sederhana/MainActivity.kt">MainActivity.kt</a></li>
-  <li><a href="Navigasi-Sederhana/Dependencies.md">Dependencies.md</a></li>
-</ul>
+<summary>
+  <ul>
+    <li><a href="Navigasi-Sederhana/MainScreen.kt">MainScreen.kt</a></li>
+    <li><a href="Navigasi-Sederhana/SecondScreen.kt">SecondScreen.kt</a></li>
+    <li><a href="Navigasi-Sederhana/ThirdScreen.kt">ThirdScreen.kt</a></li>
+    <li><a href="Navigasi-Sederhana/MainActivity.kt">MainActivity.kt</a></li>
+    <li><a href="Navigasi-Sederhana/Dependencies.md">Dependencies.md</a></li>
+  </ul>
+</summary>
 
 <h4>Tampilan-Internet</h4>
 <ul>
