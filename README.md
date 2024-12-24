@@ -18,7 +18,7 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
   </ul>  
 </details>
 
-<details><summary>Tampilan-Internet</h4></summary>  
+<details><summary>Tampilan-Internet</summary>  
   <ul>
     <li><a href="Tampilan-Internet/ApiService.kt">ApiService.kt</a></li>
     <li><a href="Tampilan-Internet/MainViewModel.kt">MainViewModel.kt</a></li>
@@ -29,22 +29,14 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
   </ul>
 </details>
 
-<h4>Internet-Image</h4>
-<ul>
-  <li><a href="Internet-Image/ApiService.kt">ApiService.kt</a></li>
-  <li><a href="Internet-Image/PhotosRepository.kt">PhotosRepository.kt</a></li>
-  <li><a href="Internet-Image/PhotoViewModel.kt">PhotoViewModel.kt</a></li>
-  <li><a href="Internet-Image/PhotoScreen.kt">PhotoScreen.kt</a></li>
-  <li><a href="Internet-Image/MainActivity.kt">MainActivity.kt</a></li>
-  <li><a href="Internet-Image/Dependencies.md">Dependencies.md</a></li>
-  <li><a href="Internet-Image/Izin-Internet.md">Izin-Internet.md</a></li>
-</ul>
-
-
-<details>
-  <summary>Klik untuk membuka teks yang dilipat</summary>
-  
-  Ini adalah teks yang dapat dilipat. Anda dapat memasukkan apa saja di sini, termasuk teks, gambar, atau bahkan kode.
-
-  ```python
-  print("Hello, World!")
+<details><summary>Internet-Image</summary>  
+  <ul>
+    <li><a href="Internet-Image/ApiService.kt">ApiService.kt</a></li>
+    <li><a href="Internet-Image/PhotosRepository.kt">PhotosRepository.kt</a></li>
+    <li><a href="Internet-Image/PhotoViewModel.kt">PhotoViewModel.kt</a></li>
+    <li><a href="Internet-Image/PhotoScreen.kt">PhotoScreen.kt</a></li>
+    <li><a href="Internet-Image/MainActivity.kt">MainActivity.kt</a></li>
+    <li><a href="Internet-Image/Dependencies.md">Dependencies.md</a></li>
+    <li><a href="Internet-Image/Izin-Internet.md">Izin-Internet.md</a></li>
+  </ul>
+</details>
