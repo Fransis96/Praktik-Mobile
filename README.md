@@ -8,13 +8,13 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
 <h2>List Path dan Files</h2>
 
 <details>
-  <summary style="font-size: 20px;">Navigasi-Sederhana</summary> 
+  <h3><summary>Navigasi-Sederhana</summary></h3> 
   <ul>
-    <li><a href="Navigasi-Sederhana/MainScreen.kt" style="font-size: 18px;">MainScreen.kt</a></li>
-    <li><a href="Navigasi-Sederhana/SecondScreen.kt" style="font-size: 18px;">SecondScreen.kt</a></li>
-    <li><a href="Navigasi-Sederhana/ThirdScreen.kt" style="font-size: 18px;">ThirdScreen.kt</a></li>
-    <li><a href="Navigasi-Sederhana/MainActivity.kt" style="font-size: 18px;">MainActivity.kt</a></li>
-    <li><a href="Navigasi-Sederhana/Dependencies.md" style="font-size: 18px;">Dependencies.md</a></li>
+    <li><a href="Navigasi-Sederhana/MainScreen.kt">MainScreen.kt</a></li>
+    <li><a href="Navigasi-Sederhana/SecondScreen.kt">SecondScreen.kt</a></li>
+    <li><a href="Navigasi-Sederhana/ThirdScreen.kt">ThirdScreen.kt</a></li>
+    <li><a href="Navigasi-Sederhana/MainActivity.kt">MainActivity.kt</a></li>
+    <li><a href="Navigasi-Sederhana/Dependencies.md">Dependencies.md</a></li>
   </ul>  
 </details>
 
