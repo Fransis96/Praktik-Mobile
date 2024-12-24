@@ -1,7 +1,6 @@
 // MainViewModel.kt
 // File type -> Class
 
-
 package com.example.tampilinternet
 
 import androidx.compose.runtime.State
