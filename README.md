@@ -8,7 +8,7 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
 <h2>List Path dan Files</h2>
 
 <details>
-  <summary><font color="red"> Navigasi-Sederhana</font></summary>  
+  <summary> Navigasi-Sederhana</font></summary>  
   <ul>
     <li><a href="Navigasi-Sederhana/MainScreen.kt">MainScreen.kt</a></li>
     <li><a href="Navigasi-Sederhana/SecondScreen.kt">SecondScreen.kt</a></li>
@@ -18,15 +18,16 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
   </ul>  
 </details>
 
-<h4>Tampilan-Internet</h4>
-<ul>
-  <li><a href="Tampilan-Internet/ApiService.kt">ApiService.kt</a></li>
-  <li><a href="Tampilan-Internet/MainViewModel.kt">MainViewModel.kt</a></li>
-  <li><a href="Tampilan-Internet/Post.kt">Post.kt</a></li>
-  <li><a href="Tampilan-Internet/MainActivity.kt">MainActivity.kt</a></li>
-  <li><a href="Tampilan-Internet/Dependencies.md">Dependencies.md</a></li>
-  <li><a href="Tampilan-Internet/Izin-Internet.md">Izin-Internet.md</a></li>
-</ul>
+<details><summary>Tampilan-Internet</h4></summary>  
+  <ul>
+    <li><a href="Tampilan-Internet/ApiService.kt">ApiService.kt</a></li>
+    <li><a href="Tampilan-Internet/MainViewModel.kt">MainViewModel.kt</a></li>
+    <li><a href="Tampilan-Internet/Post.kt">Post.kt</a></li>
+    <li><a href="Tampilan-Internet/MainActivity.kt">MainActivity.kt</a></li>
+    <li><a href="Tampilan-Internet/Dependencies.md">Dependencies.md</a></li>
+    <li><a href="Tampilan-Internet/Izin-Internet.md">Izin-Internet.md</a></li>
+  </ul>
+</details>
 
 <h4>Internet-Image</h4>
 <ul>
