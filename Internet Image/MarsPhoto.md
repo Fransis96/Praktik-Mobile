@@ -1,5 +1,5 @@
 ## MarsPhoto.kt
-Tipe file ``Data Class`` 
+File type ``Data Class`` 
 ```
 package com.example.internetimage
 
