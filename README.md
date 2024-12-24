@@ -7,8 +7,8 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
 
 <h2>List Path dan Files</h2>
 
-<h4>Navigasi-Sederhana</h4>
-<summary>  
+<details>
+  <summary> <h4>Navigasi-Sederhana</h4> </summary> 
   <ul>
     <li><a href="Navigasi-Sederhana/MainScreen.kt">MainScreen.kt</a></li>
     <li><a href="Navigasi-Sederhana/SecondScreen.kt">SecondScreen.kt</a></li>
@@ -16,7 +16,7 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
     <li><a href="Navigasi-Sederhana/MainActivity.kt">MainActivity.kt</a></li>
     <li><a href="Navigasi-Sederhana/Dependencies.md">Dependencies.md</a></li>
   </ul>  
-</summary>
+</details>
 
 <h4>Tampilan-Internet</h4>
 <ul>
