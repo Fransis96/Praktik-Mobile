@@ -8,7 +8,7 @@ Untuk mempermudah pencarian, saya telah sertakan list-nya.
 <h3>List File</h3>
 <h4>Internet Image</h4>
 <ul>
-  <li>[ApiService.kt]("Internet Image/ApiService.kt MarsPhoto.kt") </li>
+  <li><a href="Internet Image/ApiService.kt"> ApiService.kt</a></li>
   <li>ApiService.kt</li>
   <li>PhotosRepository.kt</li>
   <li>PhotoViewModel.kt</li>
