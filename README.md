@@ -8,10 +8,9 @@ Untuk mempermudah pencarian, saya telah sertakan list-nya.
 <h3>List File</h3>
 <h4>Internet Image</h4>
 <ul>
-  <li><a href="Internet Image/ApiService.kt"> ApiService.kt</a></li>
-  <li>ApiService.kt</li>
-  <li>PhotosRepository.kt</li>
-  <li>PhotoViewModel.kt</li>
-  <li>PhotoScreen.kt</li>
-  <li>MainActivity.kt</li>
+  <li><a href="Internet Image/ApiService.kt">ApiService.kt</a></li>
+  <li><a href="Internet Image/PhotosRepository.kt">PhotosRepository.kt</a></li>
+  <li><a href="Internet Image/PhotoViewModel.kt">PhotoViewModel.kt</a></li>
+  <li><a href="Internet Image/PhotoScreen.kt">PhotoScreen.kt</a></li>
+  <li><a href="Internet Image/MainActivity.kt">MainActivity.kt</a></li>
 </ul>
