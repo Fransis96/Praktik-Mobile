@@ -5,14 +5,25 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
 <hr>
 
 
-<h2>List Path dan Files</h2b>
-<h4>Internet Image</h4>
+<h2>List Path dan Files</h2>
+
+<h4>Tampilan-Internet</h4>
 <ul>
-  <li><a href="Internet Image/ApiService.kt">ApiService.kt</a></li>
-  <li><a href="Internet Image/PhotosRepository.kt">PhotosRepository.kt</a></li>
-  <li><a href="Internet Image/PhotoViewModel.kt">PhotoViewModel.kt</a></li>
-  <li><a href="Internet Image/PhotoScreen.kt">PhotoScreen.kt</a></li>
-  <li><a href="Internet Image/MainActivity.kt">MainActivity.kt</a></li>
-  <li><a href="Internet Image/Dependencies.md">Internet Image/Dependencies.md</a></li>
-  <li><a href="Internet Image/Izin-Internet.md">Internet Image/Izin-Internet.md</a></li>
+  <li><a href="Tampilan-Internet/ApiService.kt">ApiService.kt</a></li>
+  <li><a href="Tampilan-Internet/MainViewModel.kt">MainViewModel.kt</a></li>
+  <li><a href="Tampilan-Internet/Post.kt">Post.kt</a></li>
+  <li><a href="Tampilan-Internet/MainActivity.kt">MainActivity.kt</a></li>
+  <li><a href="Tampilan-Internet/Dependencies.md">Dependencies.md</a></li>
+  <li><a href="Tampilan-Internet/Izin-Internet.md">Izin-Internet.md</a></li>
+</ul>
+
+<h4>Internet-Image</h4>
+<ul>
+  <li><a href="Internet-Image/ApiService.kt">ApiService.kt</a></li>
+  <li><a href="Internet-Image/PhotosRepository.kt">PhotosRepository.kt</a></li>
+  <li><a href="Internet-Image/PhotoViewModel.kt">PhotoViewModel.kt</a></li>
+  <li><a href="Internet-Image/PhotoScreen.kt">PhotoScreen.kt</a></li>
+  <li><a href="Internet-Image/MainActivity.kt">MainActivity.kt</a></li>
+  <li><a href="Internet-Image/Dependencies.md">Dependencies.md</a></li>
+  <li><a href="Internet-Image/Izin-Internet.md">Izin-Internet.md</a></li>
 </ul>
