@@ -4,8 +4,8 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
 
 <hr>
 
-<div style="font-size: 25px; letter-spacing: 2px;"> 
-  List File
+<div style="font-size: 25px; letter-spacing: 5px;"> 
+  <b>List File</b>
 </div>
 <h4>Internet Image</h4>
 <ul>
