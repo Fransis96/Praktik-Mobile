@@ -8,7 +8,7 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
 <h2>List Path dan Files</h2>
 
 <details>
-  <summary><font style="font-size: 7px;">Navigasi-Sederhana</font></summary> 
+  <summary><span style="font-size: 7px;">Navigasi-Sederhana</span></summary> 
 
   <ul>
     <li><a href="Navigasi-Sederhana/MainScreen.kt">MainScreen.kt</a></li>
