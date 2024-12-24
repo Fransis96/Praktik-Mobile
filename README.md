@@ -13,4 +13,6 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
   <li><a href="Internet Image/PhotoViewModel.kt">PhotoViewModel.kt</a></li>
   <li><a href="Internet Image/PhotoScreen.kt">PhotoScreen.kt</a></li>
   <li><a href="Internet Image/MainActivity.kt">MainActivity.kt</a></li>
+  <li><a href="Internet Image/Dependencies.md">Internet Image/Dependencies.md</a></li>
+  <li><a href="Internet Image/Izin-Internet.md">Internet Image/Izin-Internet.md</a></li>
 </ul>
