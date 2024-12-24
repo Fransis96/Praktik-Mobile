@@ -6,7 +6,7 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
 
 
 <h2>List Path dan Files</h2>
-
+<font color="red"> Navigasi-Sederhana</font>
 <details>
   <summary><font color="red"> Navigasi-Sederhana</font></summary> 
   <ul>
