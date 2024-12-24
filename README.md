@@ -5,7 +5,7 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
 <hr>
 
 
-<h2>List File</h2b>
+<h2>List Path dan Files</h2b>
 <h4>Internet Image</h4>
 <ul>
   <li><a href="Internet Image/ApiService.kt">ApiService.kt</a></li>
