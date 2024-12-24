@@ -8,14 +8,14 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
 <h2>List Path dan Files</h2>
 
 <h4>Navigasi-Sederhana</h4>
-<summary>
+<summary>  
   <ul>
     <li><a href="Navigasi-Sederhana/MainScreen.kt">MainScreen.kt</a></li>
     <li><a href="Navigasi-Sederhana/SecondScreen.kt">SecondScreen.kt</a></li>
     <li><a href="Navigasi-Sederhana/ThirdScreen.kt">ThirdScreen.kt</a></li>
     <li><a href="Navigasi-Sederhana/MainActivity.kt">MainActivity.kt</a></li>
     <li><a href="Navigasi-Sederhana/Dependencies.md">Dependencies.md</a></li>
-  </ul>
+  </ul>  
 </summary>
 
 <h4>Tampilan-Internet</h4>
@@ -38,3 +38,12 @@ Selamat datang kawan,  disini saya hanya membagikan potongan script yang telah k
   <li><a href="Internet-Image/Dependencies.md">Dependencies.md</a></li>
   <li><a href="Internet-Image/Izin-Internet.md">Izin-Internet.md</a></li>
 </ul>
+
+
+<details>
+  <summary>Klik untuk membuka teks yang dilipat</summary>
+  
+  Ini adalah teks yang dapat dilipat. Anda dapat memasukkan apa saja di sini, termasuk teks, gambar, atau bahkan kode.
+
+  ```python
+  print("Hello, World!")
